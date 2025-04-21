@@ -1,6 +1,7 @@
 -- set to our schema
 SET search_path to group17;
 
+DROP TABLE mental_health_data;
 CREATE TABLE mental_health_data (
     id INT PRIMARY KEY,
     gender TEXT,
@@ -23,4 +24,4 @@ CREATE TABLE mental_health_data (
 );
 
 
-\COPY mental_health_data FROM 'student_depression_data.csv' DELIMITER ',' CSV HEADER;
+\COPY mental_health_data FROM 'student_depression_dataset.csv' DELIMITER ',' CSV HEADER;
