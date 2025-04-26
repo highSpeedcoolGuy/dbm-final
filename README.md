@@ -9,3 +9,21 @@
 ```git pull```
 
 ```git add .```
+
+``` git commit -m "Your message here ```
+
+``` git push ```
+
+
+# Running the python program
+
+1. Go to the virtual environment
+   
+    To create: 
+    ``` python3 -m venv myEnv ```
+    To activate
+    ``` source myEnv/bin/activate ```
+
+2. Install all requirements
+   
+   ``` pip install -r requirements.txt ```

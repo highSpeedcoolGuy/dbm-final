@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+pandas 
+sqlalchemy 
+psycopg2-binary

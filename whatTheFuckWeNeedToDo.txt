@@ -1,0 +1,15 @@
+Data loading and cleaning 
+Interesting or complex queries
+
+
+Things to clean:
+
+Job other than student -> get rid 
+Sleep duration to actual numerical values or categorical?
+
+
+Component 3: Outputs
+    1. Data Loading and Cleaning (Include issues with the dataset)
+    2. Database Schema Design (Include ERD - all tables, primary  & foreign key, and relationships)
+    3. Interesting or complex queries (subqueries, CTEs, window functions, grouping, aggregation - must have function)
+    4. Statistical Analysis (2-3, something not obvious)
